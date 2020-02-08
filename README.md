@@ -14,11 +14,11 @@ or
 ```javascript
 conda create --name IBMQ python=3
 ```
-   - go to the environment *IBMQ*:
+   - go to the environment *IBMQ*: `conda activate IBMQ`
 ```javascript
 conda activate IBMQ
 ```
-   - back to the base:
+   - back to the base: `conda deactivate`
  ```javascript
 conda deactivate
 ```
