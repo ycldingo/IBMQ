@@ -1,14 +1,7 @@
 # Install Qiskit
 ## macOS
 1. Download Anaconda. The detail instruction is indicated in repository *Anaconda-Distribution*.
-2. Open a terminal and switch to your working folder:
-```javascript
-cd FOLDER_NAME
-```
-To go back:
-```javascript
-cd ..
-```
+2. Open a terminal and switch to your working folder by `cd FOLDER_NAME`. To go back: `cd ..`.
 
 3. In order not to pollute the environment, it is suggested to create a new environment, Suppose the new environment is called *IBMQ*:
     - create new environment *IBMQ*:
