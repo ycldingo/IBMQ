@@ -15,15 +15,17 @@ cd ..
 ```javascript
 conda create -n IBMQ python=3
 ```
+
 or
+
 ```javascript
 conda create --name IBMQ python=3
 ```
-    - go to the environment *IBMQ*:
+   - go to the environment *IBMQ*:
 ```javascript
 conda activate IBMQ
 ```
-    - back to the base:
+   - back to the base:
  ```javascript
 conda deactivate
 ```
