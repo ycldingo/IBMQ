@@ -27,9 +27,9 @@ conda deactivate
 ```javascript
 pip install PACKAGE_NAME
 ```
-Here, install `jupyter notebook`, `matplotlib`, `qiskit`.
+Here, install `jupyter notebook`, `matplotlib`, `qiskit`. If you successfully install `jupyter notebook`, by running `jupyter notebook`, you can open it in your browser.
 
-5. If you successfully install `jupyter notebook`, by running `jupyter notebook`, you can open it in your browser.
+5. Enjoy!
 
 
 # Verify version
