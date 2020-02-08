@@ -1,5 +1,5 @@
 # Install Qiskit
-## macOS
+## macOS & Windows
 1. Download Anaconda. The detail instruction is indicated in repository *Anaconda-Distribution*.
 2. Open a terminal in the directory you want to work by `cd FOLDER_NAME`. To go back: `cd ..`.
 
