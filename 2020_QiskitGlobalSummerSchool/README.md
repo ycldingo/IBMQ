@@ -2,7 +2,7 @@ In this folder, I collect the materials given in *2020 Qiskit Global Summer Scho
 
 # Content
 ### Day 1: Introduction to Quantum Computing
-1. From bits to qubits 
+1. From bits to qubits: 
 - Dirac notation
 - measurements
 - Bloch sphere
@@ -15,8 +15,14 @@ In this folder, I collect the materials given in *2020 Qiskit Global Summer Scho
 - Q-sphere
 
 ### Day 2: Quantum Algorithms
-1. Deutsch-Jozsa algorithm: Oracles, Deutsch-Jozsa theory, implementation with Qiskit
-2. Grover’s algorithm: Grover theory, amplitude amplification, implement with Qiskit
+1. Deutsch-Jozsa algorithm: 
+- Oracles
+- Deutsch-Jozsa theory
+- implementation with Qiskit
+2. Grover’s algorithm: 
+- Grover theory
+- amplitude amplification
+- implement with Qiskit
 
 ### Day 3: Shor’s Algorithm I - Quantum Fourier Transform and Quantum Phase Estimation
 1. Quantum Fourier Transform
