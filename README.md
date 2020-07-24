@@ -32,6 +32,13 @@ Here, install `jupyter notebook`, `matplotlib`, `qiskit`. If you successfully in
 5. Enjoy!
 
 
+# Upgrade packages
+IBM Quantum Team upgrade relevant packages for better experience. To do your research under a good environment, you may need to make sure that everything is updated to the latest version. The command to do this is
+```javascript
+pip install --upgrade qiskit
+```
+
+
 # Verify version
 1. Open a terminal and run `jupyter notebook`. 
 
