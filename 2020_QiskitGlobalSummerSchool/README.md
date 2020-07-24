@@ -29,10 +29,11 @@ In this folder, I collect the materials given in *2020 Qiskit Global Summer Scho
 2. Quantum Phase Estimation
 
 ### Day 4: Shor’s Algorithm II - Factoring to Period-Finding
-
+1. Going from factoring to period-finding
+2. Writing the program
 
 ### Day 5: Quantum Error Correction
-
+1. Repetition codes
 
 ### Day 6: Superconducting Qubits I
 1. Quantizing a harmonic oscillator
