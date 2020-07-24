@@ -37,6 +37,10 @@ IBM Quantum Team upgrade relevant packages for better experience. To do your res
 ```javascript
 pip install --upgrade qiskit
 ```
+Make sure you are running the code in the right environment (the one you build for the Qiskit). To upgrade a specific package, you can run
+```javascript
+pip install --upgrade PKG_NAME
+```
 
 
 # Verify version
