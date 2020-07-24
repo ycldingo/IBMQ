@@ -51,8 +51,14 @@ In this folder, I collect the materials given in *2020 Qiskit Global Summer Scho
 
 
 # Additional Reading
-In this folder, you can review some useful reference that may help you getting deeper understandings in the topics. You will see some related research paper (both theory and experiment) and review paper.
+In this folder, you can review some useful reference that may help you getting deeper understandings in the topics. You will see some related research paper (both theory and experiment) and review paper. 
+
+### Official Resources
+1. [Textbook](https://qiskit.org/textbook/preface.html)
+2. [Documentation](https://qiskit.org/documentation/)
+3. [GitHub](https://github.com/Qiskit)
+4. [Website](https://qiskit.org/)
 
 
-# Demonstrations
-There are some demo via Jupyter Notebook in the lectures. The scripts are in this folder.
+# Demo
+There are some demonstrations via Jupyter Notebook in the lectures. The scripts are in this folder.
