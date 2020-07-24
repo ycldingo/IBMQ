@@ -41,6 +41,7 @@ Make sure you are running the code in the right environment (the one you build f
 ```javascript
 pip install --upgrade PKG_NAME
 ```
+For further information on this, please visit my repository [Anaconda-Distribution](https://github.com/ycldingo/Anaconda-Distribution).
 
 
 # Verify version
